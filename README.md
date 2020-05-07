@@ -1,4 +1,7 @@
+
 # Temporizador-V2
+
+Aplicación Every Minute On the Minute ( Versión WEB por componentes y manejo de usuarios.) 
 
 Santiago Gómez Almeyda 20161020503
 
