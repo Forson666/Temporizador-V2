@@ -1,8 +1,7 @@
-# Temporizador-V2  
+# Temporizador-V2
 
+Santiago Gómez Almeyda 20161020503
 
-Aplicación Every Minute On the Minute ( Versión WEB por componentes y manejo de usuarios.) 
+Jheisson Enrique Fortich Suarez 20172020049
 
-Santiago Gómez Almeyda 20161020503  
-Jheisson Enrique Fortich Suarez 20172020049  
-Kevin Andres Malaver Cobos 20171020001  
+Kevin Andres Malaver Cobos 20171020001
